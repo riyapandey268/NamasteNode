@@ -1,0 +1,22 @@
+{
+  "name": "namastenode",
+  "version": "1.0.0",
+  "description": "tinder for devs",
+  "keywords": [
+    "node",
+    "js",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Riya Pandey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
