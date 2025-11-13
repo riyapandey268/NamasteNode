@@ -1,5 +1,4 @@
 const {adminAuth }= require ("./middleswares/auth")
-
 const express = require ("express");
 const app = express();
 
